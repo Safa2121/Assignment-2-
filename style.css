@@ -38,3 +38,12 @@ margin-top: 10px;
 list-style: none;
 margin-left: -15px;
 }
+
+.DEAL-TD{
+    background-color: #FF4E4E;
+    width: 45px;
+    border-radius: 20px;
+    text-align: center;
+    top: -10px;
+    right: 12px
+}
