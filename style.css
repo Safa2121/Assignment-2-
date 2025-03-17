@@ -1,0 +1,40 @@
+.halfwidth{
+
+    width: 50%;
+}
+
+.avatar{
+    border-radius: 50%;
+    
+    }
+
+footer{
+background-color: rgb(4, 4, 27);
+
+}
+
+
+.ms{
+
+    width: 300px;
+}
+
+.img-fluid{
+max-width: 100%
+
+
+}
+
+.img-size{
+width: 135px;
+height: 40px;
+margin-top: 10px;
+
+
+}
+
+
+.list-none{
+list-style: none;
+margin-left: -15px;
+}
